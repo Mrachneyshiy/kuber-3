@@ -84,7 +84,7 @@
 
 - Ответ 3:
 
-[Service](main/sevice.yaml)
+[Service](main/service.yaml)
 
 - Ответ 4:
 
